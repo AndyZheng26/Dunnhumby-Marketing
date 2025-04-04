@@ -26,7 +26,9 @@ Key metrics involving customer purchasing patterns, demographic influences, prom
 
 The dataset consists of 8 tables Transactions, Household Demographics, Campaigns, Coupon, Causal Data (Bulk > 36million rows), Products, Campaign Description, Coupon Redemption
 - Cleaning Process and Dataset Breakdown:
+  
 <img src=>excel breakdown
+
 <img src=>tableau tree
 
 ## Tools:
