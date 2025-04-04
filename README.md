@@ -1,7 +1,10 @@
 
-# [ Work - in - Progress ] --- ( Python ) (Tableau) --- Analysis of Consumer data: Insights into Campaign Effectivenes, Marketing Strategies &amp; Customer Engagement.
+# [ Work - in - Progress ] 
+
+--- ( Python ) (Tableau) --- Analysis of Consumer data: Insights into Campaign Effectivenes, Marketing Strategies &amp; Customer Engagement.
 
 --- Python CLEANING & ANALYSIS ->
+
 --- TABLEAU DASHBOARD ->
 
 <img src=>dashbaord/flyer
