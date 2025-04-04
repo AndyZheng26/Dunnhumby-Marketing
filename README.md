@@ -29,7 +29,7 @@ The dataset consists of 8 tables Transactions, Household Demographics, Campaigns
   
 <img src=>excel breakdown
 
-<img src=>tableau tree
+<img src=https://github.com/AndyZheng26/Dunnhumby-Marketing/blob/main/assets/tables.png>
 
 ## Tools:
 - Data cleaning, preparation, and analysis done with PYTHON & POWERQUERY
