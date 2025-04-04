@@ -11,7 +11,7 @@
 
 ## Introduction:
 
-This project transforms raw transactional data from the Dunnhumby Complete Journey dataset into actionable marketing insights to drive targeted campaigns and improve customer retention. The goal is to leverage 2 years of household-level transaction data from 2,500 frequent shoppers to identify purchasing patterns, measure campaign effectiveness, and optimize future marketing efforts.
+This project transforms raw Dunnhumby Retail focused consumer data into actionable marketing insights to drive targeted campaigns and improve customer retention. The goal is to leverage 2 years of household-level transaction data from 2,500 frequent shoppers to identify purchasing patterns, measure campaign effectiveness, and optimize future marketing efforts.
 
 ## Business Task & Objectives:
 
