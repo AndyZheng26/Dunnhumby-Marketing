@@ -14,7 +14,7 @@ Python ⚠️
   - Basket Analysis?
     
 Tableau
-  - Recommendations Longform Flyer with Campaign Selection
+  - Longform Recommendations Flyer with Campaign Selection
   - Dashboard
 ---
 
