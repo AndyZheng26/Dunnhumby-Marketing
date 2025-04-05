@@ -1,5 +1,18 @@
 
 # [ Work - in - Progress ] 
+Cleaning ✅
+Outline ✅
+Python ⚠️
+  - Customer Segmentation & RFM
+  - Campaign Effectiveness & Campaign Comparisons
+  - Categorical Analysis
+  - Promotions / Coupons
+  - Loyalty
+  - Basket Analysis?
+Tableau
+  - Recommendations Longform Flyer with Campaign Selection
+  - Dashboard
+
 
 --- Python CLEANING & ANALYSIS ->
 
