@@ -16,7 +16,14 @@ Python ⚠️
 Tableau
   - Recommendations Longform Flyer with Campaign Selection
   - Dashboard
+The dataset consists of 8 tables Transactions, Household Demographics, Campaigns, Coupon, Causal Data (Bulk > 36million rows), Products, Campaign Description, Coupon Redemption
+- Cleaning Process and Dataset Breakdown:
+  
+<img src=https://github.com/AndyZheng26/Dunnhumby-Marketing/blob/main/assets/tables.png width=600>
 
+<img src=https://github.com/AndyZheng26/Dunnhumby-Marketing/blob/main/assets/D_marketing_cleaning.png>
+
+---
 
 --- Python CLEANING & ANALYSIS ->
 
@@ -41,12 +48,7 @@ Key metrics involving customer purchasing patterns, demographic influences, prom
 - What are the seasonal shopping trends that can inform marketing timing?
 - How do different promotional methods (coupons, displays, mailers) affect purchase volume and basket size?
 
-The dataset consists of 8 tables Transactions, Household Demographics, Campaigns, Coupon, Causal Data (Bulk > 36million rows), Products, Campaign Description, Coupon Redemption
-- Cleaning Process and Dataset Breakdown:
-  
-<img src=https://github.com/AndyZheng26/Dunnhumby-Marketing/blob/main/assets/tables.png width=600>
 
-<img src=https://github.com/AndyZheng26/Dunnhumby-Marketing/blob/main/assets/D_marketing_cleaning.png>
 
 
 ## Tools:
