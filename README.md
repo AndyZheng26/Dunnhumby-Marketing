@@ -18,6 +18,12 @@ Tableau
   - Dashboard
 ---
 
+--- Python CLEANING & ANALYSIS -> [Dunnhumby Marketing Analysis](https://github.com/AndyZheng26/Dunnhumby-Marketing/blob/main/Dunnhumby_Marketing_Analysis.ipynb)
+
+--- TABLEAU DASHBOARD ->
+
+---
+
 The dataset consists of 8 tables Transactions, Household Demographics, Campaigns, Coupon, Causal Data (Bulk > 36million rows), Products, Campaign Description, Coupon Redemption
 - Cleaning Process and Dataset Breakdown:
   
@@ -26,10 +32,6 @@ The dataset consists of 8 tables Transactions, Household Demographics, Campaigns
 <img src=https://github.com/AndyZheng26/Dunnhumby-Marketing/blob/main/assets/D_marketing_cleaning.png>
 
 ---
-
---- Python CLEANING & ANALYSIS ->
-
---- TABLEAU DASHBOARD ->
 
 <img src=>dashbaord/flyer
 
