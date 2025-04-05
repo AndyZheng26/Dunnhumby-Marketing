@@ -16,6 +16,8 @@ Python ⚠️
 Tableau
   - Recommendations Longform Flyer with Campaign Selection
   - Dashboard
+---
+
 The dataset consists of 8 tables Transactions, Household Demographics, Campaigns, Coupon, Causal Data (Bulk > 36million rows), Products, Campaign Description, Coupon Redemption
 - Cleaning Process and Dataset Breakdown:
   
