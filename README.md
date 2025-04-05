@@ -37,7 +37,7 @@ The dataset consists of 8 tables Transactions, Household Demographics, Campaigns
 - Data visualizations to be created in TABLEAU
 
 ## Data Source:
-[Dunnhumby - The Complete Journey](https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey/data?select=causal_data.csv)
+[Dunnhumby Dataset](https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey/data?select=causal_data.csv)
 
 <h1 align="center">Insights</h1>
 
